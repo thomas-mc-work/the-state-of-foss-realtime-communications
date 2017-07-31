@@ -29,7 +29,7 @@ Originally posted by [squaredturtles](https://www.reddit.com/user/squaredturtles
 - The Windows client is hideous... 
 - Maybe I'm too used to looking at projects on Github but it's been hard to follow the development of Ring. They don't update their blog often (I've been following Tuleap and had no idea that 1.0 was near....) 
 
-##Matrix using Riot
+## Matrix using Riot
 
 * Fairly easy to self-host Synapse 
     * Synapse eats RAM and children even with it's told not to... 
